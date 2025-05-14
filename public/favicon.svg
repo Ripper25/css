@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Project Lighthouse</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#0056b3" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <!-- Lighthouse icon -->
+        <g id="Lighthouse" transform="translate(6.000000, 4.000000)" fill="#FFFFFF">
+            <rect x="8" y="0" width="4" height="4" rx="1"></rect>
+            <rect x="9" y="4" width="2" height="16"></rect>
+            <path d="M4,20 L16,20 L16,24 L4,24 Z" fill-rule="nonzero"></path>
+            <path d="M2,16 L18,16 L18,20 L2,20 Z" fill-rule="nonzero"></path>
+            <!-- Light beams -->
+            <path d="M10,8 L16,6 L15,8 L10,8 Z" fill-rule="nonzero"></path>
+            <path d="M10,12 L18,10 L17,12 L10,12 Z" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
